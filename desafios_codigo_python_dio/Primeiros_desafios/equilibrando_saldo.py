@@ -10,21 +10,3 @@ def saldo_final(saldo, deposito, saque):
     return saldo_final
 
 print(f'Saldo atualizado na conta: {saldo_final(saldo_atual, valor_deposito, valor_saque):.1f}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def soma(a, b):
-#     soma = a + b
-#     print(f'{soma:.5f}')
-
-# soma(2, 5)
